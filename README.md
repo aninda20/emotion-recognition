@@ -7,7 +7,8 @@
     <br> 
 </h3>
 <p>The motivation behind the project lies in the vast potential applications of emotion recognition systems, which can significantly improve human-computer interactions and user experiences across a range of domains. We can ensure that our deep learning models are trained to recognize emotions accurately across different populations and contexts. This is essential for creating a robust and reliable emotion recognition system.</p>
-</br><img align="left" width="1000" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
+</br><img align="left" width="800" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
+
 
 
 
