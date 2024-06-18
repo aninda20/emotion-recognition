@@ -51,7 +51,7 @@ Follow the instructions provided in the notebook for setup and execution.
 </br> c) Deep learning techniques: CNNs and RNNs
 </br><img align="left" img width="481" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 
-</n>
+</br>
 </br> 6)Model Training and Evaluation <a name = "model_traning"></a>
 </br>	a) 8 different models tested
 </br>	b) CNN + LSTM model selected
@@ -74,9 +74,9 @@ Follow the instructions provided in the notebook for setup and execution.
 <img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
 </br> 8)Conclusion <a name = "conclusion"></a>
-</br> a)Successful development of a speech emotion detection system
-</br>	b)Potential applications in various fields
-</br>	c)Future work: advanced machine learning techniques, expanded dataset
+</br> - Successful development of a speech emotion detection system
+</br>	- Potential applications in various fields
+</br>	- Future work: advanced machine learning techniques, expanded dataset
 
 
 
