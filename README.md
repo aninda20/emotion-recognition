@@ -16,7 +16,7 @@
 </br>  📝 Table of Contents:
 </br> [1)About the Project](#about_the_project)
 </br> [2)Getting Started](#getting_started)
-</br> [3)Built With](#tech_stack")
+</br> [3)Built With](#tech_stack)
 </br> [4)Methodology](#methodology)
 </br> [5)Data Collection and Analysis](#data_collection)
 </br> [6)Model Training and Evaluation](#model_traning)
