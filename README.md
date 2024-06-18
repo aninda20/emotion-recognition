@@ -60,19 +60,19 @@ Follow the instructions provided in the notebook for setup and execution.
 
 </br> 7)Observations <a name = "observations"></a>
 </br> a)Count of Emotions
-<img width="679" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/630ca20e-b89f-4b21-903b-4b45395a78b7">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/630ca20e-b89f-4b21-903b-4b45395a78b7">
 </br> b)Mel Sectrogram-Female-fear
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/edaa8126-2854-458f-8503-7eac621dd270">
 </br> c)Confusion Matrix
-<img width="471" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/c65fb52e-a353-4788-a8ae-3cf5242c51d2">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/c65fb52e-a353-4788-a8ae-3cf5242c51d2">
 </br> d)Accuracy vs. Epochs
-<img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/41f72f33-b1eb-40c9-a521-4ff6bae88642">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/41f72f33-b1eb-40c9-a521-4ff6bae88642">
 </br> e)Precision, recall, f1-score, support
-<img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/0024e25c-6511-4a0c-98b9-052b029707e3">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/0024e25c-6511-4a0c-98b9-052b029707e3">
 </br> f)Librosa Waveplot for Aninda’s voice
-<img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/a37937ce-944f-4e1b-be5a-76d3c5a10a63">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/a37937ce-944f-4e1b-be5a-76d3c5a10a63">
 </br> g)Predicted Probabilities of Uploaded Voice
-<img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
+<img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
 </br> 8)Conclusion <a name = "conclusion"></a>
 </br> a)Successful development of a speech emotion detection system
