@@ -34,16 +34,16 @@ Follow the instructions provided in the notebook for setup and execution. It is 
 
 </br>⛏️ 3) Built With <a name = "tech_stack"></a>
 <br>1)Python </br>
-2)Google Colab </br>
-3)Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
-4)Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
+2) Google Colab </br>
+3) Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
+4) Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 
 
 </br>📝 4) Methodology  <a name = "methodology"></a>
-</br> 1)Data Collection
-</br> 2)Feature Engineering
-</br> 3)Model Development
-</br> 4)Model Evaluation
+</br> 1) Data Collection
+</br> 2) Feature Engineering
+</br> 3) Model Development
+</br> 4) Model Evaluation
 
 </br> 5) Data Collection and Analysis <a name="data_collection"></a>
 </br> a) RAVDESS dataset
@@ -57,25 +57,25 @@ Follow the instructions provided in the notebook for setup and execution. It is 
 </br> - Confusion matrices, precision, recall, and F1-score
 
 </br> 7) Observations <a name = "observations"></a>
-</br> a)Count of Emotions
+</br> a) Count of Emotions
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/630ca20e-b89f-4b21-903b-4b45395a78b7">
-</br> b)Mel Sectrogram-Female-fear
+</br> b) Mel Sectrogram-Female-fear
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/edaa8126-2854-458f-8503-7eac621dd270">
-</br> c)Confusion Matrix
+</br> c) Confusion Matrix
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/c65fb52e-a353-4788-a8ae-3cf5242c51d2">
-</br> d)Accuracy vs. Epochs
+</br> d) Accuracy vs. Epochs
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/41f72f33-b1eb-40c9-a521-4ff6bae88642">
-</br> e)Precision, recall, f1-score, support
+</br> e) Precision, recall, f1-score, support
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/0024e25c-6511-4a0c-98b9-052b029707e3">
-</br> f)Librosa Waveplot for Aninda’s voice
+</br> f) Librosa Waveplot for Aninda’s voice
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/a37937ce-944f-4e1b-be5a-76d3c5a10a63">
-</br> g)Predicted Probabilities of Uploaded Voice
+</br> g) Predicted Probabilities of Uploaded Voice
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
 </br> 8) Conclusion <a name = "conclusion"></a>
-</br> a)Successful development of a speech emotion detection system
-</br>	b)Potential applications in various fields
-</br>	c)Future work: advanced machine learning techniques, expanded dataset
+</br> a) Successful development of a speech emotion detection system
+</br>	b) Potential applications in various fields
+</br>	c) Future work: advanced machine learning techniques, expanded dataset
 <img align="left" width="1000" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 
 
