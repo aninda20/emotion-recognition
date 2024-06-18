@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width="80" alt="Emotion Detection Logo" src="https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/a22caecf-ae9e-45b7-995b-6186bcd4984d">
+    <img width="200" alt="Emotion Detection Logo" src="https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/a22caecf-ae9e-45b7-995b-6186bcd4984d">
   </a>
 </p>
 <h3 align="center">Emotion Recognition through Voice Analysis using Deep Learning Techniques
