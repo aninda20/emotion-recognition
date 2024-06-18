@@ -12,14 +12,14 @@
 </br>📝 Table of Contents
 
 About the Project
-</br> 1)About the Project(#about_the_project)
-</br> 2)Getting Started(#getting_started)
-</br> 3)Built With (#tech_stack")
-</br> 4)Methodology(#methodology)
-</br> 5)Data Collection and Analysis(#data_collection)
-</br> 6)Model Training and Evaluation(#model_traning)
-</br> 7)Observations(#observations)
-</br> 8)Conlusion(#conclusion)
+</br> [1)About the Project](#about_the_project)
+</br> [2)Getting Started](#getting_started)
+</br> [3)Built With](#tech_stack")
+</br> [4)Methodology](#methodology)
+</br> [5)Data Collection and Analysis](#data_collection)
+</br> [6)Model Training and Evaluation](#model_traning)
+</br> [7)Observations](#observations)
+</br> [8)Conlusion](#conclusion)
 
 </br> 🌐 1)About the Project <a name = "about"></a>
 
