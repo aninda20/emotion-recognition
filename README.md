@@ -25,7 +25,6 @@
 
 </br> 🌐 1)About the Project <a name = "about"></a>
 </br>The project aims to develop an advanced emotion detection system using deep learning techniques to enhance applications such as voice-based IoT applications. The system aims to accurately identify and classify emotions conveyed through human speech, and it involves collecting and analysing emotional speech data, extracting relevant features, and applying deep learning methods to build a robust and accurate emotion detection model. The system intends to provide improved performance and capabilities, transforming the way voice-based intelligent systems interact with users and understand their emotions. This project was made in Google collab environment.
-  <img align="left" width="1000" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 </p>
 
 
@@ -77,7 +76,7 @@ Follow the instructions provided in the notebook for setup and execution. It is 
 </br> a)Successful development of a speech emotion detection system
 </br>	b)Potential applications in various fields
 </br>	c)Future work: advanced machine learning techniques, expanded dataset
-
+<img align="left" width="1000" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 
 
 
