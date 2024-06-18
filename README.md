@@ -45,17 +45,16 @@ Follow the instructions provided in the notebook for setup and execution.
 </br> 3)Model Development
 </br> 4)Model Evaluation
 
-</br> 5)Data Collection and Analysis <a name = "data_collection"></a>
-</br> a)	RAVDESS dataset
-</br>	b) Preprocessing and feature extraction
+</br> 5) Data Collection and Analysis <a name="data_collection"></a>
+</br> a) RAVDESS dataset
+</br> b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
 </br><img align="left" img width="481" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 
-</br>
-</br> 6)Model Training and Evaluation <a name = "model_traning"></a>
-</br>	a) 8 different models tested
-</br>	b) CNN + LSTM model selected
-</br>	c) Confusion matrices, precision, recall, and F1-score
+</br> 6) Model Training and Evaluation <a name="model_training"></a>
+</br> a) 8 different models tested
+</br> b) CNN + LSTM model selected
+</br> c) Confusion matrices, precision, recall, and F1-score
 
 </br> 7)Observations <a name = "observations"></a>
 </br> a)Count of Emotions
@@ -74,9 +73,9 @@ Follow the instructions provided in the notebook for setup and execution.
 <img width="663" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
 </br> 8)Conclusion <a name = "conclusion"></a>
-</br> - Successful development of a speech emotion detection system
-</br>	- Potential applications in various fields
-</br>	- Future work: advanced machine learning techniques, expanded dataset
+</br> a)Successful development of a speech emotion detection system
+</br>	b)Potential applications in various fields
+</br>	c)Future work: advanced machine learning techniques, expanded dataset
 
 
 
