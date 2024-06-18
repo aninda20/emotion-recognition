@@ -50,6 +50,7 @@ Follow the instructions provided in the notebook for setup and execution.
 </br>	b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
 </br><img align="left" img width="481" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
+</br>
 
 
 </br> 6)Model Training and Evaluation <a name = "model_traning"></a>
