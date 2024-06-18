@@ -49,12 +49,12 @@ Follow the instructions provided in the notebook for setup and execution.
 </br> a) RAVDESS dataset
 </br> b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
-</br><img align="left" img width="481" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
+</br><img align="left" img width="200" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
 
 </br> 6) Model Training and Evaluation <a name="model_training"></a>
-</br> a) 8 different models tested
-</br> b) CNN + LSTM model selected
-</br> c) Confusion matrices, precision, recall, and F1-score
+</br> - 8 different models tested
+</br> - CNN + LSTM model selected
+</br> - Confusion matrices, precision, recall, and F1-score
 
 </br> 7)Observations <a name = "observations"></a>
 </br> a)Count of Emotions
