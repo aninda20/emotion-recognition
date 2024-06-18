@@ -1,13 +1,14 @@
 <p align="center">
   <a href="" rel="noopener">
     <img width="500" alt="Emotion Detection Logo" src="https://github.com/aninda20/Machine-learning-analysis-on-Online-learning/assets/53020383/a22caecf-ae9e-45b7-995b-6186bcd4984d">
+    <img align="left" width="1000" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
   </a>
 </p>
 <h3 align="center">Emotion Recognition through Voice Analysis using Deep Learning Techniques
     <br> 
 </h3>
 <p>The motivation behind the project lies in the vast potential applications of emotion recognition systems, which can significantly improve human-computer interactions and user experiences across a range of domains. We can ensure that our deep learning models are trained to recognize emotions accurately across different populations and contexts. This is essential for creating a robust and reliable emotion recognition system.</p>
-</br><img align="left" width="800" alt="Data Analysis Image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/4e4de319-e49a-4820-8d10-b8485ee29c81">
+</br>
 
 
 
