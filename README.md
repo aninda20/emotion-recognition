@@ -23,7 +23,7 @@
 </br> [7)Observations](#observations)
 </br> [8)Conclusion](#conclusion)
 
-</br> 🌐 1)About the Project <a name = "about"></a>
+</br> 🌐 1) About the Project <a name = "about"></a>
 </br>The project aims to develop an advanced emotion detection system using deep learning techniques to enhance applications such as voice-based IoT applications. The system aims to accurately identify and classify emotions conveyed through human speech, and it involves collecting and analysing emotional speech data, extracting relevant features, and applying deep learning methods to build a robust and accurate emotion detection model. The system intends to provide improved performance and capabilities, transforming the way voice-based intelligent systems interact with users and understand their emotions. This project was made in Google collab environment.
 </p>
 
