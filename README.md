@@ -29,8 +29,8 @@
 
 
 </br>**🏁2) Getting Started** <a name = "getting_started"></a>
-"git clone https:/github.com/aninda20/emotion-recognition"
-Follow the instructions provided in the notebook for setup and execution. It is recommended to run in Google Colab.
+```git clone https:/github.com/aninda20/emotion-recognition```
+-Follow the instructions provided in the notebook for setup and execution. It is recommended to run in Google Colab.
 
 </br>**⛏️3) Built With**<a name = "tech_stack"></a>
 <br>1)Python </br>
