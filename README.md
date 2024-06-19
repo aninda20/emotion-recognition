@@ -13,7 +13,7 @@
 
 
 
-</br>  #📝 Table of Contents:
+  #📝 Table of Contents:
 </br> [1) About the Project](#about_the_project)
 </br> [2) Getting Started](#getting_started)
 </br> [3) Built With](#tech_stack)
