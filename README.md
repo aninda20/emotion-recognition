@@ -46,7 +46,7 @@
 </br> d) Model Evaluation
 
 </br>**5) Data Collection and Analysis** <a name="data_collection"></a>
-</br> a) RAVDESS dataset **[RAVDESS Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)**:
+</br> a)**[RAVDESS Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)**:
 </br> b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
 
