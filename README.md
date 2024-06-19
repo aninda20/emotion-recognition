@@ -28,35 +28,35 @@
 </p>
 
 
-</br>**🏁2) Getting Started** <a name = "getting_started"></a>
-```git clone https:/github.com/aninda20/emotion-recognition```
--Follow the instructions provided in the notebook for setup and execution. It is recommended to run in Google Colab.
+</br>**🏁 2) Getting Started** <a name = "getting_started"></a>
+</br>```git clone https:/github.com/aninda20/emotion-recognition```
+</br>-Follow the instructions provided in the notebook for setup and execution. It is recommended to run in Google Colab.
 
-</br>**⛏️3) Built With**<a name = "tech_stack"></a>
+</br>**⛏️ 3) Built With**<a name = "tech_stack"></a>
 <br>1)Python </br>
 2) Google Colab </br>
 3) Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
 4) Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 
 
-</br>**📝4) Methodology** <a name = "methodology"></a>
+</br>**📝 4) Methodology** <a name = "methodology"></a>
 </br> a) Data Collection
 </br> b) Feature Engineering
 </br> c) Model Development
 </br> d) Model Evaluation
 
-</br> **5) Data Collection and Analysis** <a name="data_collection"></a>
+</br>**5) Data Collection and Analysis** <a name="data_collection"></a>
 </br> a) RAVDESS dataset
 </br> b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
 
 
-</br> **6) Model Training and Evaluation** <a name="model_training"></a>
+</br>**6) Model Training and Evaluation** <a name="model_training"></a>
 </br> - 8 different models tested
 </br> - CNN + LSTM model selected
 </br> - Confusion matrices, precision, recall, and F1-score
 
-</br> **7) Observations** <a name = "observations"></a>
+</br>**7) Observations** <a name = "observations"></a>
 </br> a) Count of Emotions
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/630ca20e-b89f-4b21-903b-4b45395a78b7">
 </br> b) Mel Sectrogram-Female-fear
@@ -72,7 +72,7 @@
 </br> g) Predicted Probabilities of Uploaded Voice
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
-</br> **8) Conclusion** <a name = "conclusion"></a>
+</br>**8) Conclusion** <a name = "conclusion"></a>
 </br> a) Successful development of a speech emotion detection system
 </br>	b) Potential applications in various fields
 </br>	c) Future work: advanced machine learning techniques, expanded dataset
