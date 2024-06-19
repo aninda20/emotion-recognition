@@ -19,7 +19,7 @@
 </br> [3) Built With](#tech_stack)
 </br> [4) Methodology](#methodology)
 </br> [5) Data Collection and Analysis](#data_collection)
-</br> [6) Model Training and Evaluation](#model_traning)
+</br> [6) Model Training and Evaluation](#model_training)
 </br> [7) Observations](#observations)
 </br> [8) Conclusion](#conclusion)
 
