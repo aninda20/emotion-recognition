@@ -13,7 +13,7 @@
 
 
 
-</br>  📝 Table of Contents:
+</br>  #📝 Table of Contents:
 </br> [1) About the Project](#about_the_project)
 </br> [2) Getting Started](#getting_started)
 </br> [3) Built With](#tech_stack)
@@ -23,40 +23,40 @@
 </br> [7) Observations](#observations)
 </br> [8) Conclusion](#conclusion)
 
-</br> 🌐 1) About the Project <a name = "about"></a>
+</br> #🌐 1) About the Project <a name = "about"></a>
 </br>The project aims to develop an advanced emotion detection system using deep learning techniques to enhance applications such as voice-based IoT applications. The system aims to accurately identify and classify emotions conveyed through human speech, and it involves collecting and analysing emotional speech data, extracting relevant features, and applying deep learning methods to build a robust and accurate emotion detection model. The system intends to provide improved performance and capabilities, transforming the way voice-based intelligent systems interact with users and understand their emotions. This project was made in Google collab environment.
 </p>
 
 
-</br>🏁 2) Getting Started <a name = "getting_started"></a>
+</br>#🏁 2) Getting Started <a name = "getting_started"></a>
 "git clone https:/github.com/aninda20/emotion-recognition"
 Follow the instructions provided in the notebook for setup and execution. It is recommended to run in Google Colab.
 
-</br>⛏️ 3) Built With <a name = "tech_stack"></a>
+</br>#⛏️ 3) Built With <a name = "tech_stack"></a>
 <br>1)Python </br>
 2) Google Colab </br>
 3) Machine Learning Libraries (e.g., Scikit-Learn, TensorFlow) </br>
 4) Data Analysis and Visualization Tools (e.g., Pandas, Matplotlib) </br>
 
 
-</br>📝 4) Methodology  <a name = "methodology"></a>
+</br>#📝 4) Methodology  <a name = "methodology"></a>
 </br> 1) Data Collection
 </br> 2) Feature Engineering
 </br> 3) Model Development
 </br> 4) Model Evaluation
 
-</br> 5) Data Collection and Analysis <a name="data_collection"></a>
+</br># 5) Data Collection and Analysis <a name="data_collection"></a>
 </br> a) RAVDESS dataset
 </br> b) Preprocessing and feature extraction
 </br> c) Deep learning techniques: CNNs and RNNs
 
 
-</br> 6) Model Training and Evaluation <a name="model_training"></a>
+</br># 6) Model Training and Evaluation <a name="model_training"></a>
 </br> - 8 different models tested
 </br> - CNN + LSTM model selected
 </br> - Confusion matrices, precision, recall, and F1-score
 
-</br> 7) Observations <a name = "observations"></a>
+</br># 7) Observations <a name = "observations"></a>
 </br> a) Count of Emotions
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/630ca20e-b89f-4b21-903b-4b45395a78b7">
 </br> b) Mel Sectrogram-Female-fear
@@ -72,7 +72,7 @@ Follow the instructions provided in the notebook for setup and execution. It is 
 </br> g) Predicted Probabilities of Uploaded Voice
 <img width="959" alt="image" src="https://github.com/aninda20/emotion-recognition/assets/53020383/5d85d3d0-b7c1-4926-8c07-49a1511bf6e6">
 
-</br> 8) Conclusion <a name = "conclusion"></a>
+</br># 8) Conclusion <a name = "conclusion"></a>
 </br> a) Successful development of a speech emotion detection system
 </br>	b) Potential applications in various fields
 </br>	c) Future work: advanced machine learning techniques, expanded dataset
